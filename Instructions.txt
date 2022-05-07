@@ -1,0 +1,7 @@
+1. Open up a command prompt and write "pip install colorama"
+
+2. Open the file "client.py" on a text editor (VS Code, Atom, Notepad++,) and change the text "SERVER IP HERE" to the IP address of the computer that you want to use as server
+
+3. Open up "server.py" on a computer (make sure that the computers you want to use are connected all on the same network)
+
+4. Open "client.py" on the first computer and then open the same file on other computers
